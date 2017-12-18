@@ -1,0 +1,19 @@
+{
+  "name": "german.linets",
+  "version": "0.1.0",
+  "main": "index.html",
+  "ignore": [
+    "**/.*",
+    "german_components",
+    "test"
+  ],
+  "homepage": "https://github.com/gmartinezv/linets",
+  "authors": [
+    "German Martinez <gmartinezv@gmail.com>"
+  ],
+  "description": "Demo Desafio Latam LINETS, demostracion de destrezas y habilidades en Front-end",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": ">= 1.12.4"
+  }
+}
