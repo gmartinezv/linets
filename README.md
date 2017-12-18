@@ -39,7 +39,7 @@ var CambiarFondo = function(){
   }
 ~~~~
 
-Options
+Opciones:
 -------
 * __comienza aca__  boton que despliega una ventana tipo modal utilizando JQuery y las librarias de Bootstrap.
 * __Mas Info__ al igual que el anterior, este boton usa la misma ventana pero con contenido y efecto diferente.
