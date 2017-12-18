@@ -3,7 +3,7 @@ german.linets  0.1.0
 
 Demo Desafio Latam LINETS.
 
-<b><a href="http://martinezweb.com.ve/linets/" target="blank">Demo</a></b> | <b><a href="https://github.com/gmartinezv/german.linets#options">Documentación</a></b>
+<b><a href="http://martinezweb.com.ve/linets/" target="blank">Demo</a></b> | <b><a href="https://github.com/gmartinezv/README.md#options">Documentación</a></b>
 
 Uso
 -------
